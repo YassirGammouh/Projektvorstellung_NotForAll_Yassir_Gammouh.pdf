@@ -2,7 +2,7 @@
 "Konzept und Web-Umsetzung für die Schmuckmarke 'NotForAll'
 # 💎 NotForAll - Brand Identity & Web Design
 
-Dieses Projekt umfasst die Konzeption und visuelle Gestaltung der Schmuckmarke **NotForAll**. Es dient als Nachweis meiner Fähigkeiten in den Bereichen Projektplanung, Design und Web-Entwicklung im Rahmen meiner Bewerbung für eine Ausbildung.
+Dieses Projekt umfasst die Konzeption und visuelle Gestaltung der Schmuckmarke **NotForAll**. Es dient als Nachweis meiner Fähigkeiten in den Bereichen Projektplanung, Design und Web-Entwicklung .
 
 ## 📄 Dokumentation & Konzept
 Ich habe eine detaillierte Marken-Darstellung erstellt, die die Vision, Zielgruppe und das Design-System erklärt.
